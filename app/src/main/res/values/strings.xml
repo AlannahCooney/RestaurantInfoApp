@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CityInfo</string>
+    // Main Activity text
+    <string name="One_name">One</string>
+    <string name="View_name">View</string>
+    <string name="Worth_name">Worth</string>
+    <string name="a_name">a</string>
+    <string name="Thousand_name">Thousand Words</string>
+    
+    // The Cellar Restaurant Strings
+    <string name="Cellar_name">The Cellar</string>
+    <string name="Rating_name">4.8</string>
+    <string name="about_name">About</string>
+    <string name="description_name">At the Cellar we offer just one tasting menu, inspired by seasonal Scottish produce and locally foraged ingredients from our coastline and countryside. We work passionately with local farmers, suppliers and producers, to bring our guests the best produce available to us throughout the seasons, enabling us to create a purposefully designed and thoughtful dinning experience.</string>
+    <string name="Venue_name">Venue Type</string>
+    <string name="Restaurant_name">Restaurant</string>
+
+    // The Gannet Restaurant Strings
+    <string name="Gannet_name">The Gannet</string>
+    <string name="Rating_name2">4.7</string>
+    <string name="description_name2">The restaurant was named during a research trip to the Outer Hebrides where the iconic seafaring bird holds a special place in local tradition. We were taken by its unique look, ability to hunt and being a reference to those of us with robust appetites. At the Gannet we serve a seasonally changing multi-course menu inspired by our network of small artisan producers, foragers and farmers.</string>
+
+    // The Cail Bruich Restaurant Strings
+    <string name="Cail_name">Cail Bruich</string>
+    <string name="Rating_name3">4.25</string>
+    <string name="description_name3">Chef Lorna McNee and the team work closely with producers and suppliers to offer guests the highest quality food and drink. We offer our chef\'s tasting menu that changes in harmony with the Scottish seasons, dictated by ingredients that are local and Sustainable, and may even come from our own kitchen garden.</string>
+
+    // The Ardnamurchan Restaurant Strings
+    <string name="Ardnamurchan_name">Ardnamurchan Scottish Restaurant &amp; Bar</string>
+    <string name="Rating_name4">4.6</string>
+    <string name="description_name4">Sourcing unique and artisan products from the Highlands and Islands is of great importance to us. So please sit back and enjoy a dram or tuck into some of Scotland\'s best offerings from land and shore. The name Ardnamurchan comes from the Gaelic \'Áird nam Murchan\' translating as Headland of the great seas and is one of the UK\'s great unspoiled wildernesses.</string>
+
+    // The Kitchin Restaurant Strings
+    <string name="Kitchin_name">The Kitchin</string>
+    <string name="Rating_name5">4.8</string>
+    <string name="description_name5">Our philosophy is a true reflection of our passion for the finest, freshest Scottish seasonal produce. The cooking reflects Chef Tom Kitchin\'s training under some of the world\'s best chefs, blended with his Scottish heritage. The Kitchin presents modern British cuisine, influenced by French cooking techniques and an appreciation of the best quality ingredients available from Scotland\'s fantastic natural larder</string>
+</resources>
